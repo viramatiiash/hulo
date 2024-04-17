@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hulo/static/css/main.5bba9c04.css",
-    "main.js": "/hulo/static/js/main.b2a7b8cc.js",
+    "main.css": "/hulo/static/css/main.975195e1.css",
+    "main.js": "/hulo/static/js/main.5023ddaf.js",
     "static/media/friends.png": "/hulo/static/media/friends.c42537059011b2b12d41.png",
     "static/media/selected-1.png": "/hulo/static/media/selected-1.6c41c0cabbd5e243f348.png",
     "static/media/card.png": "/hulo/static/media/card.692f0998d2c07f80c4d3.png",
@@ -19,11 +19,11 @@
     "static/media/luna.png": "/hulo/static/media/luna.cf7aa34564eb4e509e3c.png",
     "static/media/symbol-defs.svg": "/hulo/static/media/symbol-defs.bd21361257a5649e6757276db739d6ea.svg",
     "index.html": "/hulo/index.html",
-    "main.5bba9c04.css.map": "/hulo/static/css/main.5bba9c04.css.map",
-    "main.b2a7b8cc.js.map": "/hulo/static/js/main.b2a7b8cc.js.map"
+    "main.975195e1.css.map": "/hulo/static/css/main.975195e1.css.map",
+    "main.5023ddaf.js.map": "/hulo/static/js/main.5023ddaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bba9c04.css",
-    "static/js/main.b2a7b8cc.js"
+    "static/css/main.975195e1.css",
+    "static/js/main.5023ddaf.js"
   ]
 }
