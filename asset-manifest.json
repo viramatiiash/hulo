@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hulo/static/css/main.5bba9c04.css",
+    "main.js": "/hulo/static/js/main.b2a7b8cc.js",
+    "static/media/friends.png": "/hulo/static/media/friends.c42537059011b2b12d41.png",
+    "static/media/selected-1.png": "/hulo/static/media/selected-1.6c41c0cabbd5e243f348.png",
+    "static/media/card.png": "/hulo/static/media/card.692f0998d2c07f80c4d3.png",
+    "static/media/selected-7.png": "/hulo/static/media/selected-7.328525a58280fd5550e4.png",
+    "static/media/selected-3.png": "/hulo/static/media/selected-3.2df9b99a36afa71ae174.png",
+    "static/media/selected-2.png": "/hulo/static/media/selected-2.0c09deca3c36296368fe.png",
+    "static/media/woman.png": "/hulo/static/media/woman.ece31d0ff6f2fa907669.png",
+    "static/media/selected-4.png": "/hulo/static/media/selected-4.2ac4dababb36b613b950.png",
+    "static/media/service-3.png": "/hulo/static/media/service-3.d52d8c08f57223b6d34b.png",
+    "static/media/service-1.png": "/hulo/static/media/service-1.f40715d704650fb5758b.png",
+    "static/media/service-2.png": "/hulo/static/media/service-2.7f13dcdc19bbc4cea1e4.png",
+    "static/media/selected-5.png": "/hulo/static/media/selected-5.716636dd73d69744c179.png",
+    "static/media/selected-6.png": "/hulo/static/media/selected-6.b03aedf1237145fe6d8e.png",
+    "static/media/pan-roman.png": "/hulo/static/media/pan-roman.077f480d21ae160b16f5.png",
+    "static/media/luna.png": "/hulo/static/media/luna.cf7aa34564eb4e509e3c.png",
+    "static/media/symbol-defs.svg": "/hulo/static/media/symbol-defs.bd21361257a5649e6757276db739d6ea.svg",
+    "index.html": "/hulo/index.html",
+    "main.5bba9c04.css.map": "/hulo/static/css/main.5bba9c04.css.map",
+    "main.b2a7b8cc.js.map": "/hulo/static/js/main.b2a7b8cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bba9c04.css",
+    "static/js/main.b2a7b8cc.js"
+  ]
+}
